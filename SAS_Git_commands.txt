@@ -1,0 +1,8 @@
+## Open Git Shell
+cd "E:\OneDrive_gmail\OneDrive\My_Projets_Git\SAS_codes"
+
+git init
+
+touch gitignore ## Create touch file
+
+## put SAS_Git_commands.txt to gitignore file to prevent commiting SAS_Git_commands.txt file
