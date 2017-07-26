@@ -3,6 +3,14 @@ cd "E:\OneDrive_gmail\OneDrive\My_Projets_Git\SAS_codes"
 
 git init
 
-touch gitignore ## Create touch file
+touch .gitignore ## Create touch file (.) important
 
 ## put SAS_Git_commands.txt to gitignore file to prevent commiting SAS_Git_commands.txt file
+
+git status
+
+git add .
+
+git commit -m "Innitialize the SAS codes direcory to Git"
+
+git status
