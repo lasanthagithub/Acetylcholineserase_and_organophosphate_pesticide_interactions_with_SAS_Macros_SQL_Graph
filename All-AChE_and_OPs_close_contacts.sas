@@ -1,6 +1,6 @@
 /* Multiple OP calculations*/
 %let drive = E;
-%let path = &drive.:\OneDrive\SAS_work\MD_SAS_analysis\All_plots\MultiPlots;
+%let path = &drive.:\OneDrive_gmail\OneDrive\My_Projets_Git\SAS_codes;
 libname mltplt "&path.";
 
 %let DTP_path = &drive.:\OneDrive\SAS_work\MD_SAS_analysis\DTP_analysis\working;
